@@ -6,8 +6,7 @@ Bu Python betiği, Alpha Vantage API'sini kullanarak hisse senedi değerlerini a
 
 1. Python 3.x'i yükleyin.
 
-2. Aşağıdaki kod ile `requests` kütüphanesinin kurulumunu yapın:
-pip install requests
+2. `requests` kütüphanesinin kurulumunu yapın: pip install requests
 
 3. Betiği çalıştırmak için şu adımları izleyin:
 - Depoyu klonlayın:
