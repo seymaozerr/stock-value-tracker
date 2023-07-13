@@ -1,5 +1,4 @@
 # stock-value-tracker
-# Hisse Senedi Değer Takipçisi
 
 Bu Python betiği, Alpha Vantage API'sini kullanarak hisse senedi değerlerini alır ve konsolda görüntüler.
 
